@@ -1,2 +1,0 @@
-app ls
-this is for every one 
